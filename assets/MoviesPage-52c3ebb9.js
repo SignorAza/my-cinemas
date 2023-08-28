@@ -1,0 +1,1 @@
+import{_ as e}from"./Catalog-152d8e69.js";import{o as a,c as o,a as s}from"./index-07261a60.js";const t={class:"main"},i={__name:"MoviesPage",setup(c){return(_,r)=>(a(),o("main",t,[s(e,{type:"movie"})]))}};export{i as default};
